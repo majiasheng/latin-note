@@ -1,5 +1,5 @@
 English | Latin     | Gender 
---------+-----------+----------
+--------|-----------|----------
 woman   | fēmina, fēminae   | f
 book    | liber, libri      | m
 sword   | gladius, gladii   | m
